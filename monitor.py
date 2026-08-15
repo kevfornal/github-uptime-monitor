@@ -4,7 +4,7 @@ import requests
 URLS_TO_MONITOR = [
     "https://google.com",
     "https://github.com",
-    "https://neverhaveiever.com",
+    "https://neverhaveiever5.com",
 ]
 
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
